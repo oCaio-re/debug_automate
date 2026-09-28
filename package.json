@@ -4,7 +4,7 @@
   "description": "Automação em TypeScript e Playwright para verificar e atualizar o Log Level dos quartos na dashboard da Nonius TV.",
   "main": "src/index.ts",
   "scripts": {
-    "start": "tsx src/index.ts",
+    "start": "cat starter.txt && tsx src/index.ts",
     "build": "tsc"
   },
   "keywords": [
